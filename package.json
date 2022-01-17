@@ -12,9 +12,6 @@
   "dependencies": {
     "express": "^4.17.2"
   },
-  "directories": {
-    "lib": "lib"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aanyah/Jot-This-DWN.git"
