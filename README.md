@@ -1,4 +1,4 @@
-# Jot-This-DWN 
+# Note Taker
 This application allows you to take notes as well as to save them. You can use it as To-Do list, to keep yourself organize. Or use it as a quick and easy note-taker for your class. What-ever you need to jot down, this Note-Taker App will get the job done.
 
 # App Link
